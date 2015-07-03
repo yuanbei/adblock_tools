@@ -1,0 +1,9 @@
+{
+  "name": "adsextractor",
+  "title": "AdsExtractor",
+  "id": "myaddon@shenma-inc.com",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.0.1"
+}
